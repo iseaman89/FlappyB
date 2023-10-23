@@ -1,5 +1,5 @@
 # FlappyB
-FlappyBird Clone for friend as birthday gift.
+FlappyBird clone for friend as birthday gift.
 
 <img width="498" alt="Знімок екрана 2023-10-23 о 18 58 01" src="https://github.com/iseaman89/FlappyB/assets/99422924/cc2db4b8-e424-4951-af8b-725e16388596">
 <img width="498" alt="Знімок екрана 2023-10-23 о 18 59 15" src="https://github.com/iseaman89/FlappyB/assets/99422924/bc3ef43b-e4a7-4bd7-bb37-1d4dcb0b754b">
